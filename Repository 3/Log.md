@@ -7,6 +7,7 @@ lot of fun making this and make telling my story. The map aspect of it really
 helps visualize where things are taking place. I can see how this tool would be
 very helpful in many aspects of digital history and cant wait to use it more.
 
+<iframe src="https://uploads.knightlab.com/storymapjs/71b115f44e6aca8a84600219ab1b39b2/my-dream-canadian-ski-trip/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 ### Maps from Spreadsheet
 
